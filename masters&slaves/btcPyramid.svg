@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 2481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,0.474418,-113.411)">
+        <path d="M1992.72,1923.49L2115.52,2169.09L364.799,2169.09L487.599,1923.49L1992.72,1923.49Z" style="fill:rgb(204,160,31);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0.474418,-113.411)">
+        <path d="M1854.16,1646.38L626.157,1646.38L733.199,1432.29L1747.12,1432.29L1854.16,1646.38Z" style="fill:rgb(204,160,31);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0.474418,-113.411)">
+        <path d="M1731.36,1400.78L748.957,1400.78L855.999,1186.69L1624.32,1186.69L1731.36,1400.78Z" style="fill:rgb(204,160,31);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0.837072,-113.411)">
+        <path d="M1608.56,1155.18L871.757,1155.18L978.799,941.092L1501.52,941.092L1608.56,1155.18Z" style="fill:rgb(204,160,31);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0.474418,-113.411)">
+        <path d="M1485.76,909.576L994.557,909.576L1101.6,695.492L1378.72,695.492L1485.76,909.576Z" style="fill:rgb(204,160,31);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0.474418,-113.411)">
+        <path d="M1362.96,663.976L1117.36,663.976L1240.16,418.376L1362.96,663.976Z" style="fill:rgb(204,160,31);"/>
+    </g>
+    <g transform="matrix(4.35825e-16,-7.11757,6.78638,4.15546e-16,-4246.9,10009.8)">
+        <g transform="matrix(8.60299e-18,0.147354,-0.140497,9.02283e-18,1406.35,625.797)">
+            <use xlink:href="#_Image1" x="238.743" y="308.804" width="42.811px" height="1748.38px" transform="matrix(0.995598,0,0,0.999645,0,0)"/>
+        </g>
+    </g>
+    <g transform="matrix(5.33748e-17,-0.871677,6.78638,4.15546e-16,-3265.36,2752.54)">
+        <g transform="matrix(7.02466e-17,0.147354,-1.14721,9.02283e-18,3157.75,481.164)">
+            <use xlink:href="#_Image2" x="1224.62" y="1567.53" width="42.811px" height="214.55px" transform="matrix(0.995598,0,0,0.997908,0,0)"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,44.4001,327.19)">
+        <text x="318.644px" y="579.161px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:62.5px;fill:rgb(0,122,255);">Bekende</text>
+        <text x="273.462px" y="643.705px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:62.5px;fill:rgb(0,122,255);">hoeveelheid</text>
+        <text x="365.549px" y="708.25px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:62.5px;fill:rgb(0,122,255);">lagen</text>
+        <text x="423.762px" y="772.795px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:62.5px;fill:rgb(0,122,255);">=</text>
+        <text x="308.298px" y="837.339px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:62.5px;fill:rgb(0,122,255);">Maximaal</text>
+        <text x="287.424px" y="901.884px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:62.5px;fill:rgb(0,122,255);">vertrouwen</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-493.168,19.057)">
+        <text x="1620.24px" y="661.245px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:54.167px;fill:white;">1e groep</text>
+        <text x="1600.68px" y="717.184px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:54.167px;fill:white;">Bitcoiners</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-493.168,264.657)">
+        <text x="1615.9px" y="661.245px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:56.25px;fill:white;">2e groep</text>
+        <text x="1595.59px" y="719.336px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:56.25px;fill:white;">Bitcoiners</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-492.805,510.257)">
+        <text x="1611.56px" y="661.245px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:58.333px;fill:white;">3e groep</text>
+        <text x="1590.5px" y="721.487px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:58.333px;fill:white;">Bitcoiners</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-493.168,755.858)">
+        <text x="1607.22px" y="661.245px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:60.417px;fill:white;">4e groep</text>
+        <text x="1585.4px" y="723.639px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:60.417px;fill:white;">Bitcoiners</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-492.857,1261.46)">
+        <text x="1528.21px" y="661.245px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:62.5px;fill:white;">Laatste groep</text>
+        <text x="1580.31px" y="725.79px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:62.5px;fill:white;">Bitcoiners</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="43px" height="1749px" xlink:href="data:image/png;base64,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"/>
+        <image id="_Image2" width="43px" height="215px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAADXCAYAAACDDaiiAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACb0lEQVR4nO3cv0uVURzH8c+NK4JyMwzEIK4hRtIgDRGUQzjYEDi02Rgtre2N7Q3N0SotDTXVEAXi0lQQQhEqDXIhMcR+0PD0Jzy3e3p7e+D9mr+c8x4OXJ7D4baevK+qB+v5791dTNq7B8nGzrBT6t1cSI4NO+JvGEsxlmIspVGx7dnJ5Mb5wRdY3056h/VzU+PJ4szg+8xOJq2qqgZfIcm1x6lefqqfW55LXtxKq2SvRh0DYynGUoylGEtply5w51Jy/Vz9XHeidKd/8HN7lBp1DIylGEsxlmIsxViKsRRjKcZSjKUUfzDef5Xq3W793MJ0cm+p7MqzOPbNVtLP/ez+z9KdGnYMjKUYSzGWYizFWIqxFGMpxlKMpRhLMZZiLMVYirGU4lvEK91kbKR+7sKp0p18I8MxlmIsxViKsRRjKcZSjKUYSzGWUvzB+Gwz1Zdv9XOnJ5KV+SG/kXm40d8bmeW5ZGW+bK9GHQNjKcZSjKUYSzGWYizFWIqxFGMpxlKMpRhLMZZiLKX4FnFsJDk+2t9cKd/IUIylGEsxlmIsxViKsRRjKcZSjKUUfzDu7Kf6/rt+bmwk6Z4oeyPj/3xTjKUYSzGWYizFWIqxFGMpxlKMpRhLMZZiLMVYirGURsUWX3l+/Jrq4Ff9XGc0OXtyyPezR6lRx8BYirEUYynGUoylGEsxlmIsxVhK8YOe1bVUr7fq566eSdZWh/ynN3s/kt2D/uZKNeoYGEtpPd+sqkdvB19gfTvpHdbPTY0nizOD73P7YtL+vJc8/TD4Iv3qHZbtszTbsGNgLMVYirGURsW2pzvJ5e6wM+pNd5I/DxlqDfgPCIoAAAAASUVORK5CYII="/>
+    </defs>
+</svg>
