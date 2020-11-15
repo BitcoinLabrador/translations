@@ -95,8 +95,7 @@ Aangezien de productie van ieder product op de markt een opoffering van menselij
 > Geen enkele slaaf is gelukkig. Bestaat er een groter ellende voor een mens dan te leven zonder macht over wat dan ook, zichzelf inbegrepen?
 > Philo Judaeus
 
-Geld is altijd een onmisbaar onderdeel van zowel het idee van soevereiniteit als dat van slavernij geweest. Wanneer het geld door de bevolking gekozen is door het proces van vrije markten, is het geld een samenwerking van het collectieve logos van het volk; een verbinding van alle individuele soevereine uitingen. Maar natuurlijk geld is gekaapt door kunstmatige tirannieën
-; de enige reden waarom staten soeverein zijn is omdat zij het meeste échte vrij gekozen geld hebben: goud.
+Geld is altijd een onmisbaar onderdeel van zowel het idee van soevereiniteit als dat van slavernij geweest. Wanneer het geld door de bevolking gekozen is door het proces van vrije markten, is het geld een samenwerking van het collectieve logos van het volk; een verbinding van alle individuele soevereine uitingen. Maar natuurlijk geld is gekaapt door kunstmatige tirannieën; de enige reden waarom staten soeverein zijn is omdat zij het meeste échte vrij gekozen geld hebben: goud.
 
 ## De zogenaamde soevereine staten
 > Ik wist niet dat ik een slaaf was totdat ik ontdekte dat ik de dingen die ik wilde doen, niet kon en mocht doen.
