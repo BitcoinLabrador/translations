@@ -1,4 +1,4 @@
-# How Bitcoin Fixes Me
+# Bitcoin Fixes Me
 When a chance encounter with a Stephan Livera podcast started my Bitcoin journey almost exactly ten months ago, I could not have dreamt how much that journey would change me. Bitcoin has had a profound effect on almost every aspect of my life, whether directly by lowering my time preference and incentivizing me to save, or indirectly by opening up numerous other rabbit holes in economy, history, spirituality, religion, diet, psychedelics and so much more.
 How Bitcoin fixes me: A retrospective from a class of 2020 pleb.
 
