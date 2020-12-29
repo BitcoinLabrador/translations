@@ -1,6 +1,6 @@
 # Bitcoin Fixes Me
 When a chance encounter with a Stephan Livera podcast started my Bitcoin journey almost exactly ten months ago, I could not have dreamt how much that journey would change me. Bitcoin has had a profound effect on almost every aspect of my life, whether directly by lowering my time preference and incentivizing me to save, or indirectly by opening up numerous other rabbit holes in economy, history, spirituality, religion, diet, psychedelics and so much more.
-How Bitcoin fixes me: A retrospective from a class of 2020 pleb.
+Bitcoin fixes me: A retrospective from a class of 2020 pleb.
 
 ## Money & Savings
 I was never much of a saver. I really liked spending money on random stuff that I didn’t actually need, like new computer hardware, games I’d never play or posters I wouldn’t hang up anyway. Now, I have more money than I could have ever imagined having as a poor student. Of course, NgU technology helps in that regard, but, except for essentials, I’ve spent less this year than I would have spent in a single month. Bitcoin has completely obliterated my materialistic side. For every purchase I want to make, I think about whether or not I really need it. Most of the time, the answer is ‘no’.
