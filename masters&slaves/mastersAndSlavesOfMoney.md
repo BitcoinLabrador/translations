@@ -27,13 +27,15 @@ Een exclusief recht om geld te creëren zonder marktconcurrentie is een apparaat
 
 Vervalste handelskralen en panos waren wapens om menselijke tijd te verkrijgen; iets wat tussen 1501 en 1806 tot de diefstal van 12,5 miljoen mensenlevens heeft geleid. De trans-Atlantische slavenhandel was een slow-motion holocaust voor de Afrikaanse bevolking; grofweg 2 miljoen Afrikanen stierven onderweg naar Amerika, en degenen die het wel haalden waren de rest van hun leven onbetaald aan het werk. Om dit economisch te kwantificeren (zonder de mensen die in slavernij geboren zijn mee te tellen): als je er van uit gaat dat de gemiddelde slaaf 40 jaar lang 5000 uur per jaar kan werken, komt de hoeveelheid gestolen tijd uit op 2 500 000 000 000 uur, of 6.8 miljard uur per jaar verspreid over 365 jaar [bron](https://www.dropbox.com/s/zomgyj5hy0lc4zv/Slave%20voyages%20data.xls?dl=0).
 
-> Slavernij is diefstal. Diefstal van een leven, diefstal van werk, diefstal van de eigendommen en productie, zelfs diefstal van de kinderen die een slaaf gebaard zou hebben.
+> Slavernij is diefstal. Diefstal van een leven, diefstal van werk, diefstal van de eigendommen en productie, zelfs diefstal van de kinderen die een slaaf gebaard zou hebben.  
+> 
 > Kevin Bales
 
 Als de geldproductie voor Afrika eerlijke concurrentie had gehad, had deze verschrikkelijke periode in de geschiedenis misschien niet plaats hoeven te vinden, of was het in ieder geval niet zo erg geweest. In een (niet-gewelddadige) vrije, concurrerende markt moeten producenten rekening houden met de wensen van hun klanten en met de mogelijkheden van hun concurrentie – dit zorgt ervoor dat ze moeten streven naar zo laag mogelijke prijzen en technologische innovatie. Zonder deze verantwoordelijkheid is het enige streven van producenten het verhogen van hun marktaandeel en zullen ze er alles aan doen om dit voor elkaar te krijgen – inclusief gewelddadige dwang.
 
 ## Markten, soevereiniteit en moraliteit
 > Een actie kan alleen moreel zijn als hij vrijwillig is
+> 
 > Murray N. Rothbard
 
 Concurrentie is een natuurlijk proces van ontdekking. In de sport is het de manier waarop wij er achter komen welk van de twee teams of spelers tijdens een spel het meest competent is. Gedurende een heel speelseizoen wordt de beste speler gevonden door achtereenvolgend herhaalde spellen. In vrije markten is dit hetzelfde; ondernemers ‘spelen’ achtereenvolgende spellen van ‘wie kan het beste aan de wensen van de klant voldoen’. Iedere ondernemer wedt met zijn investeringen in dat hij dat zelf is. Ze zorgen dat zij het beste aan de wensen voldoen door snellere, betere, makkelijkere of goedkopere oplossingen te bieden dan hun concurrentie. Concurrentie in de markt is wat eerlijk werk en echte maatschappelijke vooruitgang in de hand werkt. Een Amerikaans spreekwoord luidt: “onderzoek eindigt bij de waarheid”. Je kunt de vrije markt zien als een continu doorlopend onderzoek richting de waarheid. De ideeën en producten die de markt oplevert zijn onze beste benadering van de waarheid. 
@@ -82,7 +84,7 @@ Zoals we eerder al hebben vastgesteld heeft geld noch spraak moraliteit vanuit z
 2.	Hij kan zijn wijn met water aanlengen of druiven van slechtere kwaliteit gebruiken om zijn productiekosten (maar daarmee ook de kwaliteit van de wijn) te drukken. Hij blijft de wijn voor €10 per fles verkopen
 3.	Hij kan de wijn voor €20 per fles gaan verkopen om dezelfde hoeveelheid koopkracht voor zijn wijn terug te krijgen
 
-Als de wijnmaker de eerste optie kiest, verliest hij 50% aan koopkracht ten opzichte van de situatie vóór de inflatie. Als hij de wijn verwatert, fraudeert hij door zijn klanten een inferieur product aan te bieden. Stel, hij is eerlijk en kiest voor optie 3. Als zijn concurrentie minder eerlijk is dan hij en voor optie 2 kiest, zal de eerlijke wijnboer al zijn klanten verliezen omdat de vermindering in kwaliteit van de wijn niet opgemerkt zal worden door de meeste mensen die geen connaisseur zijn. 
+Als de wijnmaker de eerste optie kiest, verliest hij 50% aan koopkracht ten opzichte van de situatie vóór de inflatie. Als hij de wijn verwatert, fraudeert hij door zijn klanten een inferieur product aan te bieden. Stel, hij is eerlijk en kiest voor optie 3. Als zijn concurrentie minder eerlijk is dan hij en voor optie 2 kiest, zal de eerlijke wijnboer al zijn klanten verliezen omdat de vermindering in kwaliteit van de wijn niet opgemerkt zal worden door de meeste mensen die geen connoisseur zijn. 
 
 Het verwateren van de wijn levert een onmiddellijk financieel voordeel op zonder dat dit zich evenredig kenbaar maakt in het verlies van klanten. Dit levert een natuurlijke stimulans op om fraude te plegen richting je klanten in een economisch systeem waar inflatie de norm is. Dergelijke wijnschandalen zijn [daadwerkelijk voorgevallen](https://en.wikipedia.org/wiki/1985_diethylene_glycol_wine_scandal).
 
@@ -93,12 +95,14 @@ Geld is een grote bron van verleiding, omdat een soort register is van wie wat b
 Aangezien de productie van ieder product op de markt een opoffering van menselijke tijd vereist, kunnen we zeggen dat geld een vertegenwoordiging is of symbool staat voor de tijd die mensen opofferen. Op dezelfde manier dat een aandeel symbool staat voor aanspraak op (een gedeelte van) het kapitaal van een bedrijf, is geld een aanspraak op tijd. Mensen offeren hun tijd op voor geld wat ze later aan evenredige offers van andere mensen kunnen besteden. Het mag duidelijk zijn dat een gereedschap wat de opgeofferde tijd van mensen kan beheersen zowel een grote verleiding als een bron van vermogen en macht (in de natuurkundige zin: arbeid over tijd). Een lust naar macht is de motivatie achter de meeste oorlogen – over het algemeen is een oorlog het inzetten van fysieke en gewelddadige macht om kapitaal, voedsel, mensen of territorium toe te eigenen. Een gebrek aan macht is sterk verwant aan ongelukkig zijn, wat het vergaren van macht aantrekkelijk maakt.
 
 > Geen enkele slaaf is gelukkig. Bestaat er een groter ellende voor een mens dan te leven zonder macht over wat dan ook, zichzelf inbegrepen?
+> 
 > Philo Judaeus
 
 Geld is altijd een onmisbaar onderdeel van zowel het idee van soevereiniteit als dat van slavernij geweest. Wanneer het geld door de bevolking gekozen is door het proces van vrije markten, is het geld een samenwerking van het collectieve logos van het volk; een verbinding van alle individuele soevereine uitingen. Maar natuurlijk geld is gekaapt door kunstmatige tirannieën; de enige reden waarom staten soeverein zijn is omdat zij het meeste échte vrij gekozen geld hebben: goud.
 
 ## De zogenaamde soevereine staten
 > Ik wist niet dat ik een slaaf was totdat ik ontdekte dat ik de dingen die ik wilde doen, niet kon en mocht doen.
+> 
 > Frederick Douglass
 
 Al zo’n 5000 jaar lang zijn edelmetalen door de vrije markt gekozen als geld, omdat zij het beste aan de vijf essentiële kenmerken van geld (verdeelbaarheid, duurzaamheid, draagbaarheid, herkenbaarheid en schaarste) voldeden. Goud was hier het meest gewild, omdat het het schaarst was. Het valt goed te onderbouwen dat schaarste het belangrijkste kenmerk is waar geld aan moet voldoen. Zonder zekerheid dat de hoeveelheid, of het aanbod van, geld niet makkelijk groter kan worden, is er altijd iemand met een sterke motivatie om dat aanbod te vergroten en zichzelf te verrijken ten koste van de andere gebruikers (zie: handelskralen, panos en het huidige papiergeld van regeringen). 
@@ -119,6 +123,7 @@ Natuurlijk is het ook zo dat mensen dingen als goud zullen aanschaffen als de si
 
 ## De Piramides
 > Er zijn twee manieren om een land te veroveren: met het zwaard, of met schulden.
+> 
 > John Adams
 
 Het is beroemd voor de piramides die gebouwd zijn door duizenden slaven; het oude Egypte uit de bijbel is een typisch voorbeeld van een tirannie. De grootsheid van deze gebouwen heeft veel te danken aan de tijd die van slaven gestolen werd door de Farao’s. Het boek ‘Heroes of History’ van Will Durant geeft goed weer hoeveel werk het heeft gekost om deze monumenten te bouwen:
@@ -186,6 +191,7 @@ Om als individu op de meest waarheidsgetrouwe manier de logos te kunnen belicham
 
 ## Het Stelen van Tijd
 > Er is één soort dief die niet wordt vervolgd door de wet, en die tegelijkertijd het meest waardevolle goed van de mensheid steelt: tijd.
+> 
 > Napoleon Bonaparte
 
 Veel mensen leggen de schuld van de hedendaagse economische problematiek per vergissing bij het kapitalistische systeem. Echter staat er juist een socialistisch instituut aan het hart van iedere moderne economie: de centrale bank. De eerste man die een hut bouwde om zichzelf te beschermen tegen de regen was in essentie de eerste kapitalist. De man die als eerste het hutje van de andere betrad en het zich toe-eigende was de eerste socialist. Kapitalisme betekent vanuit beginsel dat iedereen het exclusieve recht heeft op de resultaten van zijn eigen werk. Met andere woorden: iedereen is eigenaar van zijn eigen tijd. Kapitalisten zijn vrij om de waarde die zij hebben gecreëerd met hun tijd (zij het goederen, diensten of kennis) te verhandelen met andere soevereine individuen die hetzelfde doen. Daar tegenover staat socialisme; wat inhoudt dat de regering (m.a.w.: andere mensen) zich een gedeelte van jouw tijd toe-eigenen door middel van dienstplicht, het heffen van belastingen of door middel van inflatie.
@@ -207,7 +213,8 @@ Zodra we de centrale banken niet meer zien als een economisch maar als crimineel
 
 De geschiedenis schetst een duidelijk beeld: wereldwijd gedwongen gebruik van fiat geld leidt tot het verlies van mensenlevens op een verschrikkelijke schaal. Simpel gezegd is socialisme een vorm van fraude, en de mensen die stil blijven over de waarheid van wat centrale banken écht zijn, zijn net zo schuldig aan hun criminele daden.
 
-> Als je fraude ziet, en geen “Fraude!” roept, ben je een fraudeur.
+> Als je fraude ziet, en geen “Fraude!” roept, ben je zelf een fraudeur.
+> 
 > N. N. Taleb
 
 Het centraal organiseren van geld is geen nieuw idee. In Marx’ Communistisch Manifest uit 1948 beschrijft hij de volgende maatregel: “Centralisatie van krediet in de handen van de staat, door middel van een nationale bank met het kapitaal van de staat en een exclusief monopolie op de bankensector”. Centrale banken zijn een pagina uit het draaiboek van de vader van het Communisme; er is niets kapitalistisch aan. [Centrale banken zijn monetair socialisme](https://mises.org/wire/why-marx-loved-central-banks)  en een instituut van financiële onderwerping. Marx was zelf ook een [bekend racist](https://www.dailysignal.com/2017/05/10/ugly-racism-karl-marx/)  en zijn systeem van centraal georganiseerd geld was ontworpen om de welvaart van de “minderen” te herverdelen naar de staat en de mensen die het wél verdienden. Het mag geen verrassing zijn dat een instituut geboren uit Marx’ filosofieën ook nu de vorm van een racistische slavendrijver heeft aangenomen. 
@@ -242,6 +249,7 @@ Zoals we eerder hebben aangetoond, leidt een samenleving waarin een kleine groep
 Ironisch genoeg werd George Floyd bewogen om een vervalst biljet te gebruiken omdat de Fed op grote schaal biljetten vervalst. Nogmaals, het economische karakter van geld beïnvloedt morele normen; de piramide van fiat-geld is gebouwd op diefstal, wat mensen die het al niet breed hebben bijna dwingt om te stelen, frauderen en bedriegen om het einde van de maand te halen. Inflatie heeft meer invloed hoe armer je bent, wat een verklaring is voor het feit dat het gemiddelde vermogen van zwarte families in Amerika nog geen 10% is van dat van blanke families ($17000 t.o.v. $171000). 
 
 > In plaats van dat ze mensen in staat stellen meer te bereiken, werken moderne op schuld gebaseerde valuta als een soort hamsterwiel waar je niet van af kunt komen. Dit is niet ‘per ongeluk’ gebeurd; het is een bekend gereedschap dat, gecombineerd met propaganda via de massamedia, op een effectieve manier een onderdanige, verwarde en wanhopige onderklasse creëert.
+> 
 > Michael Krieger
 
 Door bitcoin te kopen wordt je onderdeel van een wereldwijd vredig protest tegen valuta die door een centrale bank of staat georganiseerd worden. Een protest dat politici niet kunnen negeren, omdat geld het enige stembiljet is wat op geen enkele manier genegeerd kan worden.
@@ -254,6 +262,7 @@ Nogmaals, vrije markten zijn economische spellen die herhaaldelijk gespeeld word
 
 ## Op naar de Sterren, en daar voorbij
 > Ik heb twintig jaar gebeden voor vrijheid zonder antwoord. Tot ik ben gaan bidden met mijn benen.
+> 
 > Frederick Douglass
 
 Geholpen door de abolitionisten ontsnapten de slaven uit het Antebellum-zuiden in het holst van de nacht. Ze riskeerden alles om naar het noorden te ontsnappen door Canada te bereiken. De richting van het noorden vinden kon vaak lastig zijn, maar er waren genoeg aanwijzingen; mos groeit vaak aan de noordkant van bomen, en trekvogels vliegen daar vaak naar het noorden. Op heldere nachten was één aanwijzing het meest betrouwbaar: de noorderster. 
