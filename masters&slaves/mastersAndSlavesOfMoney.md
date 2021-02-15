@@ -292,6 +292,8 @@ Volg Robert's reis in het schrijven van zijn boek: https://bit.ly/3aWITZ5
 
 Doneer aan Robert voor zijn harde werk: https://tippin.me/@Breedlove22
 
+Beginnen met bitcoin? De makkelijkste manier is https://relai.ch/ - gebruik tijdens je aankoop de code REL017 voor korting
+
 ### Meer Leren over Bitcoin?
 
 [Nederlandse Bitcoinbronnen](https://github.com/M-BTC/bitcoinstart) door M-BTC
