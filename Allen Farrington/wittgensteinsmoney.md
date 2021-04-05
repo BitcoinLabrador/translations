@@ -3,6 +3,7 @@ Hoe zou het eruit zien, als het eruit zag, alsof een digitaal, wereldwijd bereik
 
 
 _Leestijd: ~25 – 35 minuten_
+
 Ludwig Wittgenstein vroeg een vriend ooit; “Waarom zeggen mensen dat het logischer is om te denken dat de zon om de aarde draait dan dat de aarde om de zon draait?”. De vriend zei: “Omdat het er simpelweg uitziet alsof de zon om de aarde draait natuurlijk.” Waarop Wittgenstein antwoordde: “En hoe zou het eruit zien, als het eruit zag alsof de aarde  om de zon heen draaide?”
 
 ## Semantiek, ergo Realiteit
