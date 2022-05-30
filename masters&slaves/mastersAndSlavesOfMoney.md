@@ -296,7 +296,7 @@ Beginnen met bitcoin? De makkelijkste manier is https://relai.app/ - gebruik tij
 
 ### Meer Leren over Bitcoin?
 
-[Nederlandse Bitcoinbronnen](https://github.com/M-BTC/bitcoinstart) door M-BTC
+[Nederlandse Bitcoinbronnen](https://bitcoinst.art/) door Bardesss
 
 [De Bitcoin Reformatie](https://bewijsvanwerk.com/de-bitcoin-reformatie/) door Tuur Demeester
 
